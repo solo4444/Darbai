@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "190336655685",
+    "firebase_url": "https://uber-bandymas.firebaseio.com",
+    "project_id": "uber-bandymas",
+    "storage_bucket": "uber-bandymas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190336655685:android:89065bb891915c53",
+        "android_client_info": {
+          "package_name": "com.example.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190336655685-0nbigffu7f058kgmknm32fuhirgr2db7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uber",
+            "certificate_hash": "361f31bbcde9c5a9b1a7b38f839014b0f6620d2d"
+          }
+        },
+        {
+          "client_id": "190336655685-nkc0j4nd16m3qkk1s3smigonk435q01a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ov7XpnrVj1l_sbdC5VPNI5lU-CeRfQw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190336655685-nkc0j4nd16m3qkk1s3smigonk435q01a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
